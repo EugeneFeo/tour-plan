@@ -486,7 +486,7 @@ template {
   .container {
     max-width: 700px;
   }
-  .logo {
+  .logo__image {
     width: 132px;
   }
   .navbar-top {
@@ -543,7 +543,7 @@ template {
 }
 
 @media (max-width: 576px) {
-  .logo {
+  .logo__image {
     width: 99px;
   }
 }
